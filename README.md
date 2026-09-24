@@ -2,7 +2,7 @@
 
 ### `B.Tech Student` • `Software Engineer` • `AI/ML & Data Enthusiast`
 
-I'm a B.Tech Information Technology student passionate about **software development, backend engineering, AI/ML, and data analytics**. I enjoy turning ideas into practical applications, solving DSA problems, and exploring how AI can be integrated into real-world systems.
+I'm a B.Tech student passionate about **software development, backend engineering, AI/ML, and data analytics**. I enjoy turning ideas into practical applications, solving DSA problems, and exploring how AI can be integrated into real-world systems.
 
 * 💻 Building applications with **Java, Python, JavaScript & Node.js**
 * 🤖 Exploring **RAG, Machine Learning & AI-powered applications**
@@ -127,15 +127,31 @@ A machine-learning based risk assessment system combining predictive models with
 
 # 📈 GitHub Analytics
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityamittal23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityamittal23&theme=tokyonight&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=adityamittal23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="170"
+  />
+  <img 
+    src="https://streak-stats.demolab.com/?user=adityamittal23&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamittal23&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamittal23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="170"
+  />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=adityamittal23&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+  />
+</p>
 ---
 
 # 📚 Currently Learning
