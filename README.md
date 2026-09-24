@@ -36,7 +36,6 @@ I'm a B.Tech Information Technology student passionate about **software developm
 
 ### 🤖 AI / Machine Learning
 
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-%230189FE?style=for-the-badge)
 ![CatBoost](https://img.shields.io/badge/CatBoost-%23FFCC00?style=for-the-badge)
@@ -136,25 +135,6 @@ A machine-learning based risk assessment system combining predictive models with
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamittal23&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
----
-
-# 🧩 Problem Solving
-
-💡 **Data Structures & Algorithms**
-
-* Arrays & Strings
-* Linked Lists
-* Stacks & Queues
-* Trees & Graphs
-* Binary Search
-* Sliding Window
-* Two Pointers
-* Dynamic Programming
-* Greedy
-* Backtracking
-
-🔗 [LeetCode](https://leetcode.com/)
 
 ---
 
