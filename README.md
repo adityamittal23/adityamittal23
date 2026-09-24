@@ -129,30 +129,16 @@ A machine-learning based risk assessment system combining predictive models with
 
 
 <p align="center">
-  <img 
+  <!-- <img 
     src="https://github-readme-stats.vercel.app/api?username=adityamittal23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     height="170"
-  />
+  /> -->
   <img 
     src="https://streak-stats.demolab.com/?user=adityamittal23&theme=tokyonight&hide_border=true"
     height="170"
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamittal23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=adityamittal23&theme=tokyo-night&hide_border=true&area=true"
-    width="95%"
-  />
-</p>
----
 
 # 📚 Currently Learning
 
