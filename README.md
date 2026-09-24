@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Aditya Mittal
 
-### `B.Tech IT Student` • `Software Engineer` • `AI/ML & Data Enthusiast`
+### `B.Tech Student` • `Software Engineer` • `AI/ML & Data Enthusiast`
 
 I'm a B.Tech Information Technology student passionate about **software development, backend engineering, AI/ML, and data analytics**. I enjoy turning ideas into practical applications, solving DSA problems, and exploring how AI can be integrated into real-world systems.
 
-* 🔭 Currently working on **Adaptive RAG for Enterprise Knowledge Systems**
 * 💻 Building applications with **Java, Python, JavaScript & Node.js**
 * 🤖 Exploring **RAG, Machine Learning & AI-powered applications**
 * 📊 Developing skills in **SQL, Power BI, Excel & Data Analytics**
